@@ -1,12 +1,3 @@
-main ul {
-    background-color: #000000;
-    border: 4px solid #111111;
-    border-radius: 10px;
-    font-family: "sans-serif";
-    font-weight: bold;
-    padding: 16px;
-
-}
 
 p {
     color: #ffffff;
@@ -15,7 +6,7 @@ p {
 
 nav ul li {
     display: inline;
-    border-right: 2px solid #642e2e;
+    border-right: 2px solid #000000;
 
 }
 
